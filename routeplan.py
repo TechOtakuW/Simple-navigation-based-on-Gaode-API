@@ -2,7 +2,7 @@
 import json
 import requests
 from geocodes import geo
-key = '1fe97c7203cd1a04110ec439d230083e'
+key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'#高德官网注册开发者 获取key
 
 
 
